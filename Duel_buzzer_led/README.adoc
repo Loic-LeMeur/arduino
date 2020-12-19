@@ -1,0 +1,8 @@
+# Dual buzzer led project
+
+## Article LePetitBidouilleur
+https://lepetitbidouilleur.wordpress.com/2014/08/29/arduino2-bouton-poussoir/
+
+## Vidéo 
+https://www.youtube.com/watch?v=X8dbztgprTU&feature=youtu.be
+
