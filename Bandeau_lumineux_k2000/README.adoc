@@ -1,0 +1,13 @@
+# README pour projet Bandeau lumineux K2000
+
+## Programme 
+Dans senario
+
+
+## Vidéo 
+https://www.youtube.com/watch?v=U5cmdvC3WYQ
+
+
+## Article sur LePetitBidouilleur 
+https://lepetitbidouilleur.wordpress.com/2014/08/21/arduino-1-premier-projet-arduino/
+
